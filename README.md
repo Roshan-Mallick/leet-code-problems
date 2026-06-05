@@ -116,10 +116,6 @@ Each file follows this format:
 
 ---
 
-## 📄 License
-
-This repository is open source and available under the [MIT License](LICENSE).
-
 ---
 
 *Happy Coding! 🚀*
